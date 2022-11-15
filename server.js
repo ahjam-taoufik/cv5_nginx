@@ -2,7 +2,7 @@ const express = require('express');
 const cors = require('cors');
 
 // Constants
-const PORT = 8080;
+const PORT = 8800;
 
 // App
 const app = express();
